@@ -1,4 +1,4 @@
-# Health Insurance Claims
+# [Health Insurance Claims](https://the-actuary-health-insurance-claims.streamlit.app/)
 Developed an AI model with a 98% accuracy and 5% anomaly detection rate that aids insurance agencies and brokers, during the underwriting process by classifying claimants into three risk-categories: Preferred, Standard, and High-Cost.  By employing a multitude of python techniques and data analysis methodologies all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.
 
 # Problem Statement
@@ -6,24 +6,7 @@ Developed an AI model with a 98% accuracy and 5% anomaly detection rate that aid
 # Key Results
 
 # Methodologies
-Kagglehub
-Python	
-Pandas	
-Seaborn	
-Sklearn	
-	sklearn.preprocessing 	
-	StandardScaler	
-	sklearn.cluster 	
-	KMeans	
-	sklearn.metrics 	
-		r2_score, silhouette_score, roc_auc_score, roc_curve, accuracy_score, classification_report, confusion_matrix, ConfusionMatrixDisplay	
-	sklearn.ensemble 	
-		RandomForestClassifier, RandomForestRegressor, IsolationForest	
-	sklearn.model_selection	
-	train_test_split	
-	sklearn - tree	
-		export_graphviz	
-matplotlib	
+
 
 
 
@@ -52,7 +35,10 @@ matplotlib
 
 # Technologies Used
 
+# Project Repository
+[Github Repository](https://github.com/Drexana/15A---Health-Insurance-Claims)\
+
 # Authors
 This project was completed in collaboration with:  
-Sebastian Davalos (sebas06lex@gmail.com) | Github  
-Drexana Rolle (drex.rolle909@gmail.com) | Github
+Sebastian Davalos (sebas06lex@gmail.com) | [Github  ](https://github.com/chumboooo)
+Drexana Rolle (drex.rolle909@gmail.com) | [Github](https://github.com/Drexana)
