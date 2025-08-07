@@ -11,17 +11,12 @@ Developed an AI model with a 98% accuracy and 5% anomaly detection rate that aid
 
 
 # Data Sources
-[Forbes Fraud Statistics  ](https://www.forbes.com/advisor/insurance/fraud-statistics/)  	
-
-[Healthcare Expenditures ](https://meps.ahrq.gov/data_files/publications/st533/stat533.shtml)   	
-
-[Linear Regression ](https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/)  	
-
-[Insurance Risk Class](https://www.investopedia.com/terms/i/insurance-risk-class.asp)  	
-
-[AI in Healthcare Bias & Mitigations](https://www.nature.com/articles/s41746-023-00858-z)   	
-
-[Exploiting Machine Learning Bias to predict medical denials  ](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31181/33341/35237)	
+* [Forbes Fraud Statistics  ](https://www.forbes.com/advisor/insurance/fraud-statistics/)  	
+* [Healthcare Expenditures ](https://meps.ahrq.gov/data_files/publications/st533/stat533.shtml)   	
+* [Linear Regression ](https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/)  	
+* [Insurance Risk Class](https://www.investopedia.com/terms/i/insurance-risk-class.asp)  	
+* [AI in Healthcare Bias & Mitigations](https://www.nature.com/articles/s41746-023-00858-z)   	
+* [Exploiting Machine Learning Bias to predict medical denials  ](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31181/33341/35237)	
 
 [Medical Underwriting  ](https://www.investopedia.com/terms/m/medical-underwriting.asp)	
 
