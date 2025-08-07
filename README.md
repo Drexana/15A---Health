@@ -6,6 +6,26 @@ Developed an AI model with a 98% accuracy and 5% anomaly detection rate that aid
 # Key Results
 
 # Methodologies
+Kagglehub
+Python
+Pandas
+Seaborn
+Sklearn
+	* sklearn.preprocessing 
+			* StandardScaler
+sklearn.cluster 
+KMeans
+sklearn.metrics 
+r2_score, silhouette_score, roc_auc_score, roc_curve, accuracy_score, classification_report, confusion_matrix, ConfusionMatrixDisplay
+sklearn.ensemble 
+RandomForestClassifier, RandomForestRegressor, IsolationForest
+sklearn.model_selection
+train_test_split
+sklearn - tree
+export_graphviz
+
+
+matplotlib
 
 
 
