@@ -40,5 +40,5 @@ Developed an AI model with a 98% accuracy and 5% anomaly detection rate that aid
 
 # Authors
 This project was completed in collaboration with:  
-Sebastian Davalos (sebas06lex@gmail.com) | [Github  ](https://github.com/chumboooo)	
-Drexana Rolle (drex.rolle909@gmail.com) | [Github](https://github.com/Drexana)	
+Sebastian Davalos (sebas06lex@gmail.com) | [Github  ](https://github.com/chumboooo)		
+Drexana Rolle (drex.rolle909@gmail.com) | [Github](https://github.com/Drexana)		
