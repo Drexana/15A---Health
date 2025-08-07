@@ -2,32 +2,15 @@
 Developed an AI model that aids insurance agencies and brokers, during the underwriting process by classifying claimants into three risk-categories: Preferred, Standard, and High-Cost.  By employing a multitude of python techniques and data analysis methodologies all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.
 
 # Problem Statement
+The underwriting process is a time-consuming process that can take a broker up to 6 to 8 weeks to complete. An inaccurate risk-classification can lead to inaccurate coverage and inconsistencies with premiums. The inability to properly assign or identify major classifications like Substandard or high-cost claimants can cost both the insurance agency and client money. With the help of The Actuary (Our AI model), we would also aid brokers greatly to identify outliers to further review the clients profile to justify their risk-classifications.
 
 # Key Results
-1. Achieved a 95% accuracy rate with risk classification assignment.
-2. 5% anomaly(outlier) detection 
+1. Sorted over 1330 claimaints into three risk classifications.
+2. Accurately classified claimants with a 98.8% accuracy rate.
+3. Identified only 5% of claimants as outliers within their sorted group.
 
 # Methodologies
-Kagglehub
-Python
-Pandas
-Seaborn
-Sklearn
-sklearn.preprocessing 
-StandardScaler
-sklearn.cluster 
-KMeans
-sklearn.metrics 
-r2_score, silhouette_score, roc_auc_score, roc_curve, accuracy_score, classification_report, confusion_matrix, ConfusionMatrixDisplay
-sklearn.ensemble 
-RandomForestClassifier, RandomForestRegressor, IsolationForest
-sklearn.model_selection
-train_test_split
-sklearn - tree
-export_graphviz
 
-
-matplotlib
 
 
 
@@ -46,11 +29,29 @@ matplotlib
 * [Kaggle Dataset ](https://www.kaggle.com/code/yash9439/health-insurance-claims-eda/notebook)	
 
 # Technologies Used
+* Kagglehub  
+* Python  
+Pandas
+Seaborn
+Sklearn
+sklearn.preprocessing 
+StandardScaler
+sklearn.cluster 
+KMeans
+sklearn.metrics 
+r2_score, silhouette_score, roc_auc_score, roc_curve, accuracy_score, classification_report, confusion_matrix, ConfusionMatrixDisplay
+sklearn.ensemble 
+RandomForestClassifier, RandomForestRegressor, IsolationForest
+sklearn.model_selection
+train_test_split
+sklearn - tree
+export_graphviz
+matplotlib
 
 # Project Repository
 [Github Repository](https://github.com/Drexana/15A---Health-Insurance-Claims)
 
 # Authors
-This project was completed in collaboration with:  
+Project Contributors:  
 * Sebastian Davalos (sebas06lex@gmail.com) | [Github  ](https://github.com/chumboooo)		
 * Drexana Rolle (drex.rolle909@gmail.com) | [Github](https://github.com/Drexana)		
