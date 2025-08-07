@@ -45,8 +45,8 @@ The underwriting process is a time-consuming process that can take a broker up t
   * sklearn.model_selection  
     * train_test_split     
   * sklearn - tree  
-    * export_graphviz    
-  * matplotlib   
+    * export_graphviz
+* matplotlib   
 
 # Project Repository
 [Github Repository](https://github.com/Drexana/15A---Health-Insurance-Claims)
