@@ -34,19 +34,19 @@ The underwriting process is a time-consuming process that can take a broker up t
 * Pandas  
 * Seaborn  
 * Sklearn  
-  * sklearn.preprocessing   
-  * StandardScaler  
-sklearn.cluster 
-KMeans
-sklearn.metrics 
-r2_score, silhouette_score, roc_auc_score, roc_curve, accuracy_score, classification_report, confusion_matrix, ConfusionMatrixDisplay
-sklearn.ensemble 
-RandomForestClassifier, RandomForestRegressor, IsolationForest
-sklearn.model_selection
-train_test_split
-sklearn - tree
-export_graphviz
-matplotlib
+  * sklearn.preprocessing    
+  * StandardScaler   
+  * sklearn.cluster  
+    * KMeans  
+  * sklearn.metrics 
+    * r2_score, silhouette_score, roc_auc_score, roc_curve, accuracy_score, classification_report, confusion_matrix, ConfusionMatrixDisplay   
+  * sklearn.ensemble     
+    * RandomForestClassifier, RandomForestRegressor, IsolationForest    
+  * sklearn.model_selection  
+    * train_test_split     
+  * sklearn - tree  
+    * export_graphviz    
+  * matplotlib   
 
 # Project Repository
 [Github Repository](https://github.com/Drexana/15A---Health-Insurance-Claims)
