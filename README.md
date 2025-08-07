@@ -36,7 +36,7 @@ Developed an AI model with a 98% accuracy and 5% anomaly detection rate that aid
 # Technologies Used
 
 # Project Repository
-[Github Repository](https://github.com/Drexana/15A---Health-Insurance-Claims)\
+[Github Repository](https://github.com/Drexana/15A---Health-Insurance-Claims)
 
 # Authors
 This project was completed in collaboration with:  
