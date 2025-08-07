@@ -16,6 +16,6 @@ Dataset
 # Technologies Used
 
 # Authors
-This project was completed in collaboration with:
-Sebastian Davalos (sebas06lex@gmail.com) | Github
+This project was completed in collaboration with:  
+Sebastian Davalos (sebas06lex@gmail.com) | Github  
 Drexana Rolle (drex.rolle909@gmail.com) | Github
