@@ -10,10 +10,7 @@ The underwriting process is a time-consuming process that can take a broker up t
 3. Identified only 5% of claimants as outliers within their sorted group.
 
 # Methodologies
-
-
-
-
+We achieved these results through the utilization of K-Means Clustering, Isolation Forest, and Random Forest. K-Means clustering was used to categorize our data. From there we analyzed how the data clustered and assigned risk-categories(preferred, standard, and high-cost). We then used an Isolation Forest to determine the anomalies(outliers) within the clusters and highlight them. Afterwards, a Random Forest was utilized during Training and Testing to help the model decide a clients classification based on their provided information. 
 
 # Data Sources
 * [Forbes Fraud Statistics  ](https://www.forbes.com/advisor/insurance/fraud-statistics/)  	
