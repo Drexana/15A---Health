@@ -31,11 +31,11 @@ The underwriting process is a time-consuming process that can take a broker up t
 # Technologies Used
 * Kagglehub  
 * Python  
-Pandas
-Seaborn
-Sklearn
-sklearn.preprocessing 
-StandardScaler
+* Pandas  
+* Seaborn  
+* Sklearn  
+  * sklearn.preprocessing   
+  * StandardScaler  
 sklearn.cluster 
 KMeans
 sklearn.metrics 
