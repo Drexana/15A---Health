@@ -11,8 +11,8 @@ Python
 Pandas
 Seaborn
 Sklearn
-	* sklearn.preprocessing 
-			* StandardScaler
+	sklearn.preprocessing 
+		StandardScaler
 sklearn.cluster 
 KMeans
 sklearn.metrics 
