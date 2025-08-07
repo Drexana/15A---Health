@@ -17,16 +17,11 @@ Developed an AI model with a 98% accuracy and 5% anomaly detection rate that aid
 * [Insurance Risk Class](https://www.investopedia.com/terms/i/insurance-risk-class.asp)  	
 * [AI in Healthcare Bias & Mitigations](https://www.nature.com/articles/s41746-023-00858-z)   	
 * [Exploiting Machine Learning Bias to predict medical denials  ](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31181/33341/35237)	
-
-[Medical Underwriting  ](https://www.investopedia.com/terms/m/medical-underwriting.asp)	
-
-[Random Forest  ](https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/)	
-
-[Feature Importance  ](https://www.geeksforgeeks.org/machine-learning/understanding-feature-importance-and-visualization-of-tree-models/)	
-
-[Isolation Forest ](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)	
-
-[Kaggle Dataset ](https://www.kaggle.com/code/yash9439/health-insurance-claims-eda/notebook)	
+* [Medical Underwriting  ](https://www.investopedia.com/terms/m/medical-underwriting.asp)	
+* [Random Forest  ](https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/)	
+* [Feature Importance  ](https://www.geeksforgeeks.org/machine-learning/understanding-feature-importance-and-visualization-of-tree-models/)	
+* [Isolation Forest ](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)	
+* [Kaggle Dataset ](https://www.kaggle.com/code/yash9439/health-insurance-claims-eda/notebook)	
 
 # Technologies Used
 
