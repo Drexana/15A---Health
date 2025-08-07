@@ -1,9 +1,11 @@
 # [Health Insurance Claims](https://the-actuary-health-insurance-claims.streamlit.app/)
-Developed an AI model with a 98% accuracy and 5% anomaly detection rate that aids insurance agencies and brokers, during the underwriting process by classifying claimants into three risk-categories: Preferred, Standard, and High-Cost.  By employing a multitude of python techniques and data analysis methodologies all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.
+Developed an AI model that aids insurance agencies and brokers, during the underwriting process by classifying claimants into three risk-categories: Preferred, Standard, and High-Cost.  By employing a multitude of python techniques and data analysis methodologies all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.
 
 # Problem Statement
 
 # Key Results
+1. Achieved a 95% accuracy rate with risk classification assignment.
+2. 5% anomaly(outlier) detection 
 
 # Methodologies
 Kagglehub
@@ -11,8 +13,8 @@ Python
 Pandas
 Seaborn
 Sklearn
-	sklearn.preprocessing 
-		StandardScaler
+sklearn.preprocessing 
+StandardScaler
 sklearn.cluster 
 KMeans
 sklearn.metrics 
